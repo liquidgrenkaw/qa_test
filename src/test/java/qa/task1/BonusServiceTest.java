@@ -16,4 +16,5 @@ class BonusServiceTest {
 
         assertEquals(expected,actuall);
     }
+
 }
